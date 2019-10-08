@@ -10,3 +10,4 @@ def toadstool(status)
 end
 toadstool(status)
 
+def link ()
