@@ -18,4 +18,7 @@ def link (famous)
   link(famous)
   
   def any_phrase(phrase)
-    joke =
+    phrase = "Do A Barrel Roll"
+    put phrase
+  end
+  any_phrase(phrase)
