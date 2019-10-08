@@ -22,3 +22,4 @@ def link (famous)
     put phrase
   end
   any_phrase(phrase)
+  
