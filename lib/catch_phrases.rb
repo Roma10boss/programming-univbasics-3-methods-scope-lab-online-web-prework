@@ -11,4 +11,8 @@ def toadstool(status)
 end
 toadstool(status)
 
-def link ()
+def link (famous)
+    famous = "It's Dangerous To Go Alone! Take This."
+    puts famous
+  end 
+  link(famous)
