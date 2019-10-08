@@ -16,3 +16,5 @@ def link (famous)
     puts famous
   end 
   link(famous)
+  
+  def 
