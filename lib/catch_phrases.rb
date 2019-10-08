@@ -17,4 +17,5 @@ def link (famous)
   end 
   link(famous)
   
-  def 
+  def any_phrase(joke)
+    joke =
